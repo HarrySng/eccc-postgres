@@ -1,0 +1,7 @@
+## Postgresql Connection Info file
+
+postgres:
+  - localhost     # Host
+  - eccc          # dbname
+  - eccc          # user
+  - eccc          # password
